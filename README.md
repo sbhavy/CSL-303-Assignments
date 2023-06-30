@@ -10,3 +10,5 @@ The assignments covered a broad range of topics in AI such as:
 4. Logical Agents
 5. Reinforcement Learning
 6. Basics of ML and Neural Nets.
+
+Assignments on Searches and Reinforcement Learning made us solve the popular CS188 Pacman projects (UC Berkeley).
