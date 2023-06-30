@@ -11,4 +11,4 @@ The assignments covered a broad range of topics in AI such as:
 5. Reinforcement Learning
 6. Basics of ML and Neural Nets.
 
-Assignments on Searches and Reinforcement Learning made us solve the popular CS188 Pacman projects (UC Berkeley).
+Assignments on Searches and Reinforcement Learning made us solve the popular Pacman projects of UC Berkeley's CS188 Artificial Intelligence.
