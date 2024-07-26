@@ -1,6 +1,6 @@
 # CSL-303-Assignments
 
-My solutions to the Tutorial Assignments (TAs) of CSL 303 Artificial Intelligence, Fall 2021 taught by Dr. Chandra Prakash, NIT Delhi.
+My solutions to the Tutorial Assignments (TAs) of CSL 303 Artificial Intelligence, Fall 2021 taught by Prof. Chandra Prakash, NIT Delhi.
 
 The assignments covered a broad range of topics in AI such as: 
 
